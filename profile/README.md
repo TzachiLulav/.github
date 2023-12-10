@@ -1,8 +1,9 @@
 # CITROS
-CITROS was started as an inside product of [lulav space](https://lulav.space) to improve the verification and validation process for lunar navigation system development, but soon to be realized that this product can help many more companies or personal creating robotics.
-As known, "with great software comes great responsibility",
-We took on ourselves the mission to bring DevOps to the **robotic** community and by that increase the reliability of the robots and reducing the time to market.
+CITROS was developed by [lulav space](https://lulav.space) to automate robotic simulation and testing processes and integrate them with DevOps pipelines to achieve an end-to-end software validation process without any human intervention.
 
+As space engineers who already crashed one lander on the moon (the Beresheet mission) and are now participating in our second lunar landing mission, we know how optimizing and automating the validation process of software can be the difference between failure and success.
+
+Our mission is to enable robotics engineers to develop robotics to the highest standards, just as in space, and to do so faster than ever before.
 
 Stay Connected
 Follow us on LinkedIn
